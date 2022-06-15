@@ -1,14 +1,11 @@
 ---
 content_type: page
-learning_resource_types:
-- Readings
-ocw_type: CourseSection
+description: This section provides bibliographic citations for recommended texts.
+draft: false
 title: Readings
 uid: b1024e58-1284-4bdd-e752-4114b0fe76b9
 ---
-
-Recommended Texts
------------------
+## Recommended Texts
 
 Rabiger, Michael. _Directing – Film Techniques and Aesthetics._ Focal Press, 2003. ISBN: 0240805178.
 
@@ -18,361 +15,208 @@ Rush, Michael. _Video Art._ Thames and Hudson, 2003. ISBN: 0500237980.
 
 Zettl, Herbert. _Sight, Sound, Motion: Applied Media Aesthetics._ Wadsworth Pub. Co., 1998. ISBN: 0534526772.
 
-{{< tableopen >}}
-{{< theadopen >}}
-{{< tropen >}}
-{{< thopen >}}
+{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 SES #
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 TOPICS
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 READINGS
-{{< thclose >}}
-
-{{< trclose >}}
-
-{{< theadclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 1
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Introduction to the Course
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
-{{< tdclose >}}
-{{< tdopen >}}
-Technical Workshop: Demonstration of DV Cameras  
-  
+{{< tdclose >}}{{< tdopen >}}
+
+Technical Workshop: Demonstration of DV Cameras
+
 In-class Exercise #1: "Camera Play"
-{{< tdclose >}}
-{{< tdopen >}}
+
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Introduction to Assignment #1: "Abstractions"
 
-Technical Workshop: Introduction to Editing Lab and Final Cut Pro  
-  
+Technical Workshop: Introduction to Editing Lab and Final Cut Pro
+
 Early History of Video Art Pt 1
 
-
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Introduction to Assignments #2 and #3: Edit "Abstractions"
 
-Early History of Video Art Pt 2: Aesthetics of the Video Signal  
-  
+Early History of Video Art Pt 2: Aesthetics of the Video Signal
+
 Nam June Paik and the Video Signal
 
-
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
-{{< tdclose >}}
-{{< tdopen >}}
-Introduction to Assignment #4: Personal Documentary (Autobiography)  
-  
+{{< tdclose >}}{{< tdopen >}}
+
+Introduction to Assignment #4: Personal Documentary (Autobiography)
+
 Technical Workshop: Camera Supports
-{{< tdclose >}}
-{{< tdopen >}}
+
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Introduction to Assignment #4: Personal Documentary (Autobiography) (cont.)
-{{< tdclose >}}
-{{< tdopen >}}
-Rush, Michael_._ Introduction in _New Media in Late 20th Century Art._ Thames and Hudson, 2001. ISBN: 0500203296.
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+Rush, Michael. Introduction in _New Media in Late 20th Century Art_. Thames and Hudson, 2001. ISBN: 0500203296.
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
-{{< tdclose >}}
-{{< tdopen >}}
-Technical Workshop: Audio Recording  
-  
-Introduction to Assignment #4: Personal Documentary (Autobiography) (cont.)  
-  
+{{< tdclose >}}{{< tdopen >}}
+
+Technical Workshop: Audio Recording
+
+Introduction to Assignment #4: Personal Documentary (Autobiography) (cont.)
+
 Technical Concepts, Resolution, Formats, Degradation, etc.
-{{< tdclose >}}
-{{< tdopen >}}
 
+{{< tdclose >}}{{< tdopen >}}
 
-Rush, Michael. Introduction in _New Media in Late 20th Century Art._ Thames and Hudson, 2001. ISBN: 0500203296.  
-  
-Russell, Catherine. "Autoethnography from Journeys of the Self." Chapter 10 in _Experimental Ethnography._ Duke University Press, 1999.  ISBN: 0822323192.  
-  
+Rush, Michael. Introduction in _New Media in Late 20th Century Art._ Thames and Hudson, 2001. ISBN: 0500203296.
+
+Russell, Catherine. "Autoethnography from Journeys of the Self." Chapter 10 in _Experimental Ethnography._ Duke University Press, 1999.  ISBN: 0822323192.
+
 Wilt, Adam. ["Uncompressed? Lossless?"](https://www.highbeam.com/doc/1G1-96028892.html)  DV.com Technical Difficulties Archive (accessed September 14, 2004).
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Assignment #4: "Personal Doc"
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 9
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Introduction to Assignment #5: Personae and the Fictive Self (Autobiography)
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
-{{< tdclose >}}
-{{< tdopen >}}
-Technical Workshop: Lighting  
-  
+{{< tdclose >}}{{< tdopen >}}
+
+Technical Workshop: Lighting
+
 Introduction to Assignment #6: Group Exercise (In and Out of Class): Camera Placement and Continuity – "Hartley"
-{{< tdclose >}}
-{{< tdopen >}}
+
+{{< tdclose >}}{{< tdopen >}}
 George Kuchar. “Tips on Directing.” _Wide Angle_ , vol 13, no. 3–4 (July–October 1992): 13.
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
-{{< tdclose >}}
-{{< tdopen >}}
-Individual Presentations: Lighting  
-  
+{{< tdclose >}}{{< tdopen >}}
+
+Individual Presentations: Lighting
+
 Begin Individual Edits of Assignment #6
-{{< tdclose >}}
-{{< tdopen >}}
- 
-{{< tdclose >}}
 
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Class Exercise: Screening of Completed "Hartley" Edits
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 14
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Production Time
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 15
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Assignment #5: "The Fictive Self"
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 16
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Individual Presentations: Cinematography
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 17
-{{< tdclose >}}
-{{< tdopen >}}
-Technical Workshop: Voice-over Narration  
-  
+{{< tdclose >}}{{< tdopen >}}
+
+Technical Workshop: Voice-over Narration
+
 Individual Presentations: Sound
-{{< tdclose >}}
-{{< tdopen >}}
- 
-{{< tdclose >}}
 
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 18
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Individual Edits of Hartley Scene
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 19
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Introduction to Assignment #7: Stories (Alternative Narratives)
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 20
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Individual Presentations
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 21
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Individual Meetings
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 22
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Individual Meetings (cont.)
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 23
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Technical Workshop: Final Cut Pro Color Manipulation
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 24
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Presentation of Final Project Treatment, Storyboards and Influences
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 25
-{{< tdclose >}}
-{{< tdopen >}}
-Technical Workshop: Creating DVD's using DVD Studio Pro 2.0  
-  
+{{< tdclose >}}{{< tdopen >}}
+
+Technical Workshop: Creating DVD's using DVD Studio Pro 2.0
+
 Individual Consultations
-{{< tdclose >}}
-{{< tdopen >}}
- 
-{{< tdclose >}}
 
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
+ 
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 26
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Assignment #7: Stories (Alternative Narratives)
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
  
-{{< tdclose >}}
-
-{{< trclose >}}
-
-{{< tableclose >}}
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
