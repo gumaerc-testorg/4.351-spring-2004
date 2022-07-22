@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, grading, attendance, and assignment screenings.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 2da0a579-03b8-875a-b18e-9dc4ab63c01c
 ---

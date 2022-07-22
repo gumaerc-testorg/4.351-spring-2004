@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides two examples of student work from this class. Each
+  is courtesy of the student named, and used with permission.
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 title: Projects
 uid: 64820dc0-bf86-03dd-f901-5826766abe32
 ---
