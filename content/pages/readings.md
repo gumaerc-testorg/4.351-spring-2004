@@ -7,13 +7,13 @@ uid: b1024e58-1284-4bdd-e752-4114b0fe76b9
 ---
 ## Recommended Texts
 
-Rabiger, Michael. _Directing – Film Techniques and Aesthetics._ Focal Press, 2003. ISBN: 0240805178.
+Rabiger, Michael. *Directing – Film Techniques and Aesthetics.* Focal Press, 2003. ISBN: 0240805178.
 
-Rush, Michael. _New Media in Late 20th Century Art._ Thames and Hudson, 2001. ISBN: 0500203296.
+Rush, Michael. *New Media in Late 20th Century Art.* Thames and Hudson, 2001. ISBN: 0500203296.
 
-Rush, Michael. _Video Art._ Thames and Hudson, 2003. ISBN: 0500237980.
+Rush, Michael. *Video Art.* Thames and Hudson, 2003. ISBN: 0500237980.
 
-Zettl, Herbert. _Sight, Sound, Motion: Applied Media Aesthetics._ Wadsworth Pub. Co., 1998. ISBN: 0534526772.
+Zettl, Herbert. *Sight, Sound, Motion: Applied Media Aesthetics.* Wadsworth Pub. Co., 1998. ISBN: 0534526772.
 
 {{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 SES #
@@ -76,7 +76,7 @@ Technical Workshop: Camera Supports
 {{< tdclose >}}{{< tdopen >}}
 Introduction to Assignment #4: Personal Documentary (Autobiography) (cont.)
 {{< tdclose >}}{{< tdopen >}}
-Rush, Michael. Introduction in _New Media in Late 20th Century Art_. Thames and Hudson, 2001. ISBN: 0500203296.
+Rush, Michael. Introduction in *New Media in Late 20th Century Art*. Thames and Hudson, 2001. ISBN: 0500203296.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
 {{< tdclose >}}{{< tdopen >}}
@@ -89,11 +89,11 @@ Technical Concepts, Resolution, Formats, Degradation, etc.
 
 {{< tdclose >}}{{< tdopen >}}
 
-Rush, Michael. Introduction in _New Media in Late 20th Century Art._ Thames and Hudson, 2001. ISBN: 0500203296.
+Rush, Michael. Introduction in *New Media in Late 20th Century Art.* Thames and Hudson, 2001. ISBN: 0500203296.
 
-Russell, Catherine. "Autoethnography from Journeys of the Self." Chapter 10 in _Experimental Ethnography._ Duke University Press, 1999.  ISBN: 0822323192.
+Russell, Catherine. "Autoethnography from Journeys of the Self." Chapter 10 in *Experimental Ethnography.* Duke University Press, 1999.  ISBN: 0822323192.
 
-Wilt, Adam. ["Uncompressed? Lossless?"](https://www.highbeam.com/doc/1G1-96028892.html)  DV.com Technical Difficulties Archive (accessed September 14, 2004).
+Wilt, Adam. "Uncompressed? Lossless?"  DV.com Technical Difficulties Archive (accessed September 14, 2004).
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
@@ -116,7 +116,7 @@ Technical Workshop: Lighting
 Introduction to Assignment #6: Group Exercise (In and Out of Class): Camera Placement and Continuity – "Hartley"
 
 {{< tdclose >}}{{< tdopen >}}
-George Kuchar. “Tips on Directing.” _Wide Angle_ , vol 13, no. 3–4 (July–October 1992): 13.
+George Kuchar. “Tips on Directing.” *Wide Angle* , vol 13, no. 3–4 (July–October 1992): 13.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
 {{< tdclose >}}{{< tdopen >}}
